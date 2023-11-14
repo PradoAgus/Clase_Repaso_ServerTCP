@@ -1,0 +1,13 @@
+{
+  "name": "clase_repaso",
+  "version": "1.0.0",
+  "description": "Servidor TCP con llamadas de Cliente",
+  "main": "server/server.js",
+  "scripts": {
+    "server": "node server/server.js",
+    "client": "node client/client.js"
+  },
+  "keywords": ["tpc","server","client","node"],
+  "author": "",
+  "license": "ISC"
+}
